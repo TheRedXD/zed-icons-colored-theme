@@ -6,6 +6,7 @@
     {
       "name": "Zed Icons Colored Theme",
       "appearance": "dark",
+      "directory_icons": {},
       "file_icons": {
         "archive": { "path": "./icons/astro.svg" },
         "astro": { "path": "./icons/astro.svg" },
