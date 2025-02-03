@@ -15,7 +15,7 @@
         "astro": { "path": "./icons/astro.svg" },
         "bun": { "path": "./icons/bun.svg" },
         "c": { "path": "./icons/c.svg" },
-        "coffeescript": { "path": "./icons/coffee.svg" },
+        "coffeescript": { "path": "./icons/coffeescript.svg" },
         "cpp": { "path": "./icons/cpp.svg" },
         "css": { "path": "./icons/css.svg" },
         "dart": { "path": "./icons/dart.svg" },
