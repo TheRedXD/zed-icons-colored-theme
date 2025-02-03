@@ -6,7 +6,10 @@
     {
       "name": "Zed Icons Colored Theme",
       "appearance": "dark",
-      "directory_icons": {},
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder_open.svg"
+      },
       "file_icons": {
         "archive": { "path": "./icons/astro.svg" },
         "astro": { "path": "./icons/astro.svg" },
