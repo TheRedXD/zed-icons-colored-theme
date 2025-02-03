@@ -11,7 +11,7 @@
         "expanded": "./icons/folder_open.svg"
       },
       "file_icons": {
-        "archive": { "path": "./icons/astro.svg" },
+        "archive": { "path": "./icons/archive.svg" },
         "astro": { "path": "./icons/astro.svg" },
         "bun": { "path": "./icons/bun.svg" },
         "c": { "path": "./icons/c.svg" },
@@ -52,6 +52,7 @@
         "python": { "path": "./icons/python.svg" },
         "r": { "path": "./icons/r.svg" },
         "react": { "path": "./icons/react.svg" },
+        "roc": { "path": "./icons/roc.svg" },
         "ruby": { "path": "./icons/ruby.svg" },
         "rust": { "path": "./icons/rust.svg" },
         "sass": { "path": "./icons/sass.svg" },
