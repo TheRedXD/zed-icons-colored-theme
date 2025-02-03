@@ -34,7 +34,7 @@
         "haskell": { "path": "./icons/haskell.svg" },
         "hcl": { "path": "./icons/hcl.svg" },
         "heroku": { "path": "./icons/heroku.svg" },
-        "html": { "path": "./icons/html.svg" },
+        "template": { "path": "./icons/html.svg" },
         "java": { "path": "./icons/java.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
         "julia": { "path": "./icons/julia.svg" },
