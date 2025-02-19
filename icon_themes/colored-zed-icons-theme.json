@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
-  "name": "Zed Icons Colored Theme",
+  "name": "Colored Zed Icons Theme",
   "author": "TheRedXD",
   "themes": [
     {
-      "name": "Zed Icons Colored Theme",
+      "name": "Colored Zed Icons Theme",
       "appearance": "dark",
       "directory_icons": {
         "collapsed": "./icons/folder.svg",

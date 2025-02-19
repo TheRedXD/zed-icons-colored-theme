@@ -1,5 +1,5 @@
-id = "zed-icons-colored-theme"
-name = "Zed Icons Colored Theme"
+id = "colored-zed-icons-theme"
+name = "Colored Zed Icons Theme"
 version = "0.2.0"
 schema_version = 1
 authors = ["TheRedXD", "Zed Industries <support@zed.dev>"]
