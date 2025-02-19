@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
   "name": "Zed Icons Colored Theme",
   "author": "TheRedXD",
   "themes": [
@@ -10,7 +10,11 @@
         "collapsed": "./icons/folder.svg",
         "expanded": "./icons/folder_open.svg"
       },
+      "file_suffixes": {
+        "as": "actionscript"
+      },
       "file_icons": {
+        "actionscript": { "path": "./icons/actionscript.svg" },
         "archive": { "path": "./icons/archive.svg" },
         "astro": { "path": "./icons/astro.svg" },
         "bun": { "path": "./icons/bun.svg" },
@@ -35,12 +39,15 @@
         "hcl": { "path": "./icons/hcl.svg" },
         "heroku": { "path": "./icons/heroku.svg" },
         "template": { "path": "./icons/html.svg" },
+        "html": { "path": "./icons/html.svg" },
         "java": { "path": "./icons/java.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
         "julia": { "path": "./icons/julia.svg" },
+        "json": { "path": "./icons/code.svg" },
         "kotlin": { "path": "./icons/kotlin.svg" },
         "lock": { "path": "./icons/lock.svg" },
         "lua": { "path": "./icons/lua.svg" },
+        "markdown": { "path": "./icons/book.svg" },
         "metal": { "path": "./icons/metal.svg" },
         "nim": { "path": "./icons/nim.svg" },
         "nix": { "path": "./icons/nix.svg" },
@@ -60,6 +67,7 @@
         "scala": { "path": "./icons/scala.svg" },
         "storage": { "path": "./icons/database.svg" },
         "swift": { "path": "./icons/swift.svg" },
+        "settings": { "path": "./icons/settings.svg" },
         "tcl": { "path": "./icons/tcl.svg" },
         "terminal": { "path": "./icons/terminal.svg" },
         "terraform": { "path": "./icons/terraform.svg" },
